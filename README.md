@@ -18,5 +18,5 @@ Identifying the owner of the captured traffic:
 ![WHOIS Info](assets/your_whois_image_name.png)
 
 ## 🛠️ Installation & Usage
-1. Clone the repo: `git clone <your-repo-link>`
+1. Clone the repo: `git clone <https://github.com/Madhav1405/CodeAlpha_Python-Packet-Sniffer>`
 2. Run with sudo: `sudo python3 mysniffer.py`
